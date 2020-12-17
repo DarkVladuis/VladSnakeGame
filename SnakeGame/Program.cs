@@ -7,7 +7,7 @@ namespace SnakeGame
         [STAThread]
         static void Main()
         {
-            //тутуру
+            //Влад великолепный программист
             using (var game = new MainGame())
                 game.Run();
         }
